@@ -17,8 +17,8 @@ int main(){
     // variable ko is tarah se bana bhi sakte hai
     int f = 23;
     float g = 3.4;
-    char h = 'devil';    // yaha char datatype me variable ki valyu ddete samay use suingel cot me hi rakhenge double cot ma nahi rakh sakte 
-    
+    char h = 'd';    // yaha char datatype me variable ki valyu ddete samay use suingel cot me hi rakhenge double cot ma nahi rakh sakte 
+                         // aur char me kewal ek letter hi likh sakte hai
     
     printf("\n size of int %zu \n", sizeof(int));   //matlab mera os me ek int ko ram me kitna space milega wo ise batalaayega
     printf("\n size of float %zu \n", sizeof(float));  // isi tarah te float ko
